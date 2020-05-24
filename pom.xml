@@ -15,7 +15,7 @@
 	<description>API de ponto eletrônico.</description>
 
 	<properties>
-		<java.version>12</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
@@ -64,6 +64,10 @@
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
     	</dependency>
+		<dependency>
+			<groupId>org.flywaydb</groupId>
+			<artifactId>flyway-core</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
