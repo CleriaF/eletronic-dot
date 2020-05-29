@@ -1,4 +1,4 @@
-package com.dot.api.enums;
+package com.dot.eletronic.enums;
 
 public enum PerfilEnum {
     ROLE_ADMIN,

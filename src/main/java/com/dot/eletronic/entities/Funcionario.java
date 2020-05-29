@@ -1,6 +1,6 @@
-package com.dot.api.entities;
+package com.dot.eletronic.entities;
 
-import com.dot.api.enums.PerfilEnum;
+import com.dot.eletronic.enums.PerfilEnum;
 
 import javax.persistence.*;
 import java.io.Serializable;

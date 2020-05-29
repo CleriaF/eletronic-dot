@@ -1,6 +1,6 @@
-package com.dot.api.entities;
+package com.dot.eletronic.entities;
 
-import com.dot.api.enums.TipoEnum;
+import com.dot.eletronic.enums.TipoEnum;
 
 import javax.persistence.*;
 import java.io.Serializable;
