@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/CleriaF/eletronic-dot.svg?branch=master)](https://travis-ci.org/CleriaF/eletronic-dot)
 
 # Eletronic - Dot
 Simple RestFul API with Java 11 and Spring Boot.
